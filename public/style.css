@@ -17,13 +17,19 @@ body{
     background-image: url('https://images.unsplash.com/photo-1495195129352-aeb325a55b65?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1055&q=80');
     background-repeat: no-repeat;
     background-size: cover;
-    font-family: 'Uchen', serif;
+    font-family: 'Kaisei HarunoUmi', serif;
     text-align: center;
 }
 
 #inputTwo{
     background: green;
     color: white;
+    height: 40px;
+    width: 5%;
+    font-family: 'Kaisei HarunoUmi', serif;
+    border-radius: 6px;
+    font-size: 16px;
+    
 }
 ul{
     font-size: 25px;
@@ -50,14 +56,12 @@ ul{
 ::-webkit-file-upload-button {
 color:white;
 background-color: green;
-font-family: 'Lato', sans-serif;
-text-transform: uppercase;
+font-family: 'Kaisei HarunoUmi', serif;
 border: 0;
-border-radius: 2px;
-font-size: 12px;
+border-radius: 6px;
+font-size: 16px;
 line-height: 32px;
-height: 28px;
-font-weight: bold;
+height: 40px;
 text-align: center;
 vertical-align: middle;
 cursor: pointer;
@@ -69,13 +73,13 @@ padding: 0 12px;
 ::-ms-browse {
 color: black;
 background-color: green;
-font-family: 'Lato', sans-serif;
+font-family: 'Kaisei HarunoUmi', serif;
 text-transform: uppercase;
 border: 0;
-border-radius: 2px;
-font-size: 12px;
+border-radius: 6px;
+font-size: 16px;
 line-height: 32px;
-height: 32px;
+height: 40px;
 font-weight: normal;
 text-align: center;
 vertical-align: middle;
